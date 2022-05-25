@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
+### I am Panha.
+
+💻 Computer science <br>
+🧑🏻‍💻 Web Developer -> React, Node JS<br>
+🎓 NIPTICT or CADT<br>
+
+#### Hobbies 
+🧑🏻‍💻 Coding | 🎮 Gaming<br>
+
+<!-- [![Darot's GitHub stats](https://github-readme-stats.vercel.app/api?username=darot-chen)](https://github.com/darot-chen/github-readme-stats) -->
 <!--
-**SopanhaKok/SopanhaKok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**darot-chen/darot-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sopanhakok&count_private=true&theme=cobalt&show_icons=true)](https://github.com/sopanhakok)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopanhakok&layout=compact&theme=cobalt)](https://github.com/sopanhakok/)
+
+
+<!--START_SECTION:waka-->
+
+```text
+Dart         6 hrs 22 mins   █████████████████░░░░░░░░   68.07 %
+Markdown     1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Python       50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+XML          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+```
+
+<!--END_SECTION:waka-->
