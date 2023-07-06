@@ -3,7 +3,7 @@
 ### I am Panha.
 
 💻 Computer science <br>
-🧑🏻‍💻 Web Developer -> React, Node JS<br>
+🧑🏻‍💻 Web Developer <br>
 🎓 NIPTICT or CADT<br>
 
 #### Hobbies 
