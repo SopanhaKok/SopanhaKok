@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sopanhakok&count_private=true&theme=cobalt&show_icons=true)](https://github.com/sopanhakok)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopanhakok&layout=compact&theme=cobalt)](https://github.com/sopanhakok/)
-
+[![Top Langs](https://github-readme-eight-mu.vercel.app//api/top-langs/?username=sopanhakok&hide_progress=true&layout=compact&theme=cobalt)](https://github.com/sopanhakok/)
 
 
